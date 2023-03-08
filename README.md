@@ -6,7 +6,6 @@
 <div>
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png" />
 </div>
 
 <!--
